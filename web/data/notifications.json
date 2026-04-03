@@ -1,0 +1,26 @@
+[
+  {
+    "id": "notif-1",
+    "title": "Deliverable submitted",
+    "body": "Maya Chen submitted “Carousel: 5 travel hacks” for July Travel Campaign.",
+    "createdAt": "2025-07-24T18:25:00.000Z",
+    "read": false,
+    "href": "/campaigns/campaign-1/deliverables"
+  },
+  {
+    "id": "notif-2",
+    "title": "Report shared",
+    "body": "Your Holiday Gift Guide report link was viewed 12 times yesterday.",
+    "createdAt": "2025-07-02T09:00:00.000Z",
+    "read": true,
+    "href": "/reports/report-3"
+  },
+  {
+    "id": "notif-3",
+    "title": "Shortlist updated",
+    "body": "Travel — Summer '25 now has 4 creators.",
+    "createdAt": "2025-07-02T09:35:00.000Z",
+    "read": true,
+    "href": "/shortlists/shortlist-1"
+  }
+]

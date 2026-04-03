@@ -1,0 +1,283 @@
+[
+  {
+    "id": "report-1",
+    "campaignId": "campaign-1",
+    "name": "July Travel Campaign — Live Report",
+    "status": "live",
+    "createdAt": "2025-07-12T00:00:00.000Z",
+    "summaryMetrics": [
+      {
+        "label": "Total creators",
+        "value": 4,
+        "format": "number"
+      },
+      {
+        "label": "Total posts",
+        "value": 24,
+        "format": "number"
+      },
+      {
+        "label": "Total reach",
+        "value": 2000000,
+        "format": "compact"
+      },
+      {
+        "label": "Total engagement",
+        "value": 454700,
+        "format": "compact",
+        "changePercent": 22.4
+      }
+    ],
+    "reachOverTime": [
+      { "date": "2025-07-01", "reach": 120000, "engagement": 12000 },
+      { "date": "2025-07-03", "reach": 180000, "engagement": 19000 },
+      { "date": "2025-07-05", "reach": 210000, "engagement": 24000 },
+      { "date": "2025-07-07", "reach": 260000, "engagement": 31000 },
+      { "date": "2025-07-09", "reach": 300000, "engagement": 36000 },
+      { "date": "2025-07-11", "reach": 340000, "engagement": 42000 },
+      { "date": "2025-07-13", "reach": 380000, "engagement": 48000 },
+      { "date": "2025-07-15", "reach": 420000, "engagement": 52000 }
+    ],
+    "ageBreakdown": [
+      { "label": "13-17", "percent": 9 },
+      { "label": "18-24", "percent": 32 },
+      { "label": "25-34", "percent": 36 },
+      { "label": "35-44", "percent": 15 },
+      { "label": "45+", "percent": 8 }
+    ],
+    "platformShare": [
+      { "platform": "instagram", "percent": 46 },
+      { "platform": "tiktok", "percent": 38 },
+      { "platform": "youtube", "percent": 16 }
+    ],
+    "creatorBreakdown": [
+      { "creatorId": "creator-1", "reach": 620000, "engagement": 98000 },
+      { "creatorId": "creator-2", "reach": 510000, "engagement": 76000 },
+      { "creatorId": "creator-4", "reach": 480000, "engagement": 72000 },
+      { "creatorId": "creator-6", "reach": 390000, "engagement": 54000 }
+    ],
+    "topPosts": [
+      {
+        "id": "tp-1",
+        "creatorId": "creator-1",
+        "platform": "tiktok",
+        "caption": "48h in Lisbon — full itinerary",
+        "impressions": 890000,
+        "engagementRate": 5.4,
+        "postedAt": "2025-07-08T12:00:00.000Z",
+        "thumbnailUrl": "/assets/thumbnails/p1.svg"
+      },
+      {
+        "id": "tp-2",
+        "creatorId": "creator-2",
+        "platform": "instagram",
+        "caption": "5 hacks that saved my last trip",
+        "impressions": 520000,
+        "engagementRate": 4.1,
+        "postedAt": "2025-07-09T18:30:00.000Z",
+        "thumbnailUrl": "/assets/thumbnails/p2.svg"
+      },
+      {
+        "id": "tp-3",
+        "creatorId": "creator-4",
+        "platform": "instagram",
+        "caption": "GRWM: travel edition",
+        "impressions": 610000,
+        "engagementRate": 3.2,
+        "postedAt": "2025-07-10T09:15:00.000Z",
+        "thumbnailUrl": "/assets/thumbnails/p3.svg"
+      }
+    ],
+    "selectedPostIds": ["tp-1", "tp-2", "tp-3"]
+  },
+  {
+    "id": "report-2",
+    "campaignId": "campaign-4",
+    "name": "Creator Roadshow — Mid-flight",
+    "status": "shared",
+    "createdAt": "2025-07-01T00:00:00.000Z",
+    "summaryMetrics": [
+      { "label": "Total creators", "value": 3, "format": "number" },
+      { "label": "Total posts", "value": 12, "format": "number" },
+      { "label": "Total reach", "value": 980000, "format": "compact" },
+      {
+        "label": "Total engagement",
+        "value": 142000,
+        "format": "compact",
+        "changePercent": 8.1
+      }
+    ],
+    "reachOverTime": [
+      { "date": "2025-06-15", "reach": 80000, "engagement": 9000 },
+      { "date": "2025-06-22", "reach": 120000, "engagement": 14000 },
+      { "date": "2025-06-29", "reach": 160000, "engagement": 19000 },
+      { "date": "2025-07-06", "reach": 210000, "engagement": 26000 }
+    ],
+    "ageBreakdown": [
+      { "label": "13-17", "percent": 14 },
+      { "label": "18-24", "percent": 40 },
+      { "label": "25-34", "percent": 30 },
+      { "label": "35-44", "percent": 12 },
+      { "label": "45+", "percent": 4 }
+    ],
+    "platformShare": [
+      { "platform": "youtube", "percent": 55 },
+      { "platform": "instagram", "percent": 35 },
+      { "platform": "tiktok", "percent": 10 }
+    ],
+    "creatorBreakdown": [
+      { "creatorId": "creator-7", "reach": 520000, "engagement": 78000 },
+      { "creatorId": "creator-10", "reach": 280000, "engagement": 38000 },
+      { "creatorId": "creator-1", "reach": 180000, "engagement": 26000 }
+    ],
+    "topPosts": [],
+    "selectedPostIds": []
+  },
+  {
+    "id": "report-3",
+    "campaignId": "campaign-3",
+    "name": "Holiday Gift Guide — Final",
+    "status": "live",
+    "createdAt": "2024-12-20T00:00:00.000Z",
+    "summaryMetrics": [
+      { "label": "Total creators", "value": 4, "format": "number" },
+      { "label": "Total posts", "value": 31, "format": "number" },
+      { "label": "Total reach", "value": 5200000, "format": "compact" },
+      {
+        "label": "Total engagement",
+        "value": 890000,
+        "format": "compact",
+        "changePercent": 15.2
+      }
+    ],
+    "reachOverTime": [
+      { "date": "2024-11-10", "reach": 400000, "engagement": 52000 },
+      { "date": "2024-11-20", "reach": 620000, "engagement": 78000 },
+      { "date": "2024-11-30", "reach": 900000, "engagement": 110000 },
+      { "date": "2024-12-10", "reach": 1200000, "engagement": 150000 }
+    ],
+    "ageBreakdown": [
+      { "label": "13-17", "percent": 12 },
+      { "label": "18-24", "percent": 38 },
+      { "label": "25-34", "percent": 34 },
+      { "label": "35-44", "percent": 12 },
+      { "label": "45+", "percent": 4 }
+    ],
+    "platformShare": [
+      { "platform": "tiktok", "percent": 44 },
+      { "platform": "instagram", "percent": 41 },
+      { "platform": "youtube", "percent": 15 }
+    ],
+    "creatorBreakdown": [
+      { "creatorId": "creator-15", "reach": 2100000, "engagement": 360000 },
+      { "creatorId": "creator-4", "reach": 1400000, "engagement": 210000 },
+      { "creatorId": "creator-16", "reach": 1100000, "engagement": 190000 },
+      { "creatorId": "creator-6", "reach": 600000, "engagement": 90000 }
+    ],
+    "topPosts": [],
+    "selectedPostIds": []
+  },
+  {
+    "id": "report-4",
+    "campaignId": "campaign-5",
+    "name": "Spring Refresh — Summary",
+    "status": "live",
+    "createdAt": "2025-05-01T00:00:00.000Z",
+    "summaryMetrics": [
+      { "label": "Total creators", "value": 2, "format": "number" },
+      { "label": "Total posts", "value": 8, "format": "number" },
+      { "label": "Total reach", "value": 410000, "format": "compact" },
+      {
+        "label": "Total engagement",
+        "value": 52000,
+        "format": "compact",
+        "changePercent": 3.4
+      }
+    ],
+    "reachOverTime": [
+      { "date": "2025-03-05", "reach": 50000, "engagement": 6000 },
+      { "date": "2025-03-15", "reach": 90000, "engagement": 11000 },
+      { "date": "2025-03-25", "reach": 140000, "engagement": 18000 },
+      { "date": "2025-04-05", "reach": 180000, "engagement": 24000 }
+    ],
+    "ageBreakdown": [
+      { "label": "18-24", "percent": 28 },
+      { "label": "25-34", "percent": 40 },
+      { "label": "35-44", "percent": 22 },
+      { "label": "45+", "percent": 10 }
+    ],
+    "platformShare": [
+      { "platform": "instagram", "percent": 58 },
+      { "platform": "tiktok", "percent": 42 }
+    ],
+    "creatorBreakdown": [
+      { "creatorId": "creator-9", "reach": 260000, "engagement": 32000 },
+      { "creatorId": "creator-13", "reach": 150000, "engagement": 20000 }
+    ],
+    "topPosts": [],
+    "selectedPostIds": []
+  },
+  {
+    "id": "report-5",
+    "campaignId": "campaign-1",
+    "name": "July Travel — Draft (internal)",
+    "status": "draft",
+    "createdAt": "2025-07-05T00:00:00.000Z",
+    "summaryMetrics": [
+      { "label": "Total creators", "value": 4, "format": "number" },
+      { "label": "Total posts", "value": 18, "format": "number" },
+      { "label": "Total reach", "value": 1500000, "format": "compact" },
+      { "label": "Total engagement", "value": 320000, "format": "compact" }
+    ],
+    "reachOverTime": [
+      { "date": "2025-07-01", "reach": 100000, "engagement": 10000 },
+      { "date": "2025-07-03", "reach": 140000, "engagement": 15000 }
+    ],
+    "ageBreakdown": [
+      { "label": "18-24", "percent": 30 },
+      { "label": "25-34", "percent": 40 },
+      { "label": "35-44", "percent": 20 },
+      { "label": "45+", "percent": 10 }
+    ],
+    "platformShare": [
+      { "platform": "instagram", "percent": 50 },
+      { "platform": "tiktok", "percent": 35 },
+      { "platform": "youtube", "percent": 15 }
+    ],
+    "creatorBreakdown": [],
+    "topPosts": [],
+    "selectedPostIds": []
+  },
+  {
+    "id": "report-6",
+    "campaignId": "campaign-4",
+    "name": "Roadshow — Stakeholder share",
+    "status": "shared",
+    "createdAt": "2025-06-28T00:00:00.000Z",
+    "summaryMetrics": [
+      { "label": "Total creators", "value": 3, "format": "number" },
+      { "label": "Total posts", "value": 9, "format": "number" },
+      { "label": "Total reach", "value": 760000, "format": "compact" },
+      { "label": "Total engagement", "value": 98000, "format": "compact" }
+    ],
+    "reachOverTime": [
+      { "date": "2025-06-10", "reach": 60000, "engagement": 7000 },
+      { "date": "2025-06-17", "reach": 110000, "engagement": 13000 },
+      { "date": "2025-06-24", "reach": 150000, "engagement": 18000 }
+    ],
+    "ageBreakdown": [
+      { "label": "18-24", "percent": 36 },
+      { "label": "25-34", "percent": 38 },
+      { "label": "35-44", "percent": 18 },
+      { "label": "45+", "percent": 8 }
+    ],
+    "platformShare": [
+      { "platform": "youtube", "percent": 48 },
+      { "platform": "instagram", "percent": 40 },
+      { "platform": "tiktok", "percent": 12 }
+    ],
+    "creatorBreakdown": [],
+    "topPosts": [],
+    "selectedPostIds": []
+  }
+]

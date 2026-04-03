@@ -1,0 +1,8 @@
+{
+  "id": "thread-1",
+  "campaignId": "campaign-1",
+  "title": "July Travel Campaign — approvals",
+  "participantIds": ["creator-3", "creator-5"],
+  "lastMessageAt": "2025-07-18T16:20:00.000Z",
+  "preview": "Can we swap the hero asset for the TikTok version?"
+}

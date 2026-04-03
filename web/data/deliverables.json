@@ -1,0 +1,158 @@
+[
+  {
+    "id": "del-1",
+    "campaignId": "campaign-1",
+    "creatorId": "creator-1",
+    "type": "reel",
+    "platform": "instagram",
+    "title": "Lisbon weekend recap",
+    "dueDate": "2025-07-20T00:00:00.000Z",
+    "submittedAt": "2025-07-19T14:10:00.000Z",
+    "status": "approved",
+    "liveUrl": "https://example.com/p/abc"
+  },
+  {
+    "id": "del-2",
+    "campaignId": "campaign-1",
+    "creatorId": "creator-1",
+    "type": "video",
+    "platform": "tiktok",
+    "title": "Packing list TikTok",
+    "dueDate": "2025-07-22T00:00:00.000Z",
+    "submittedAt": "2025-07-21T09:00:00.000Z",
+    "status": "live",
+    "liveUrl": "https://example.com/t/xyz"
+  },
+  {
+    "id": "del-3",
+    "campaignId": "campaign-1",
+    "creatorId": "creator-2",
+    "type": "post",
+    "platform": "instagram",
+    "title": "Carousel: 5 travel hacks",
+    "dueDate": "2025-07-25T00:00:00.000Z",
+    "status": "submitted",
+    "submittedAt": "2025-07-24T18:22:00.000Z"
+  },
+  {
+    "id": "del-4",
+    "campaignId": "campaign-1",
+    "creatorId": "creator-4",
+    "type": "story",
+    "platform": "instagram",
+    "title": "3-frame story + swipe-up",
+    "dueDate": "2025-07-18T00:00:00.000Z",
+    "status": "live"
+  },
+  {
+    "id": "del-5",
+    "campaignId": "campaign-1",
+    "creatorId": "creator-6",
+    "type": "reel",
+    "platform": "instagram",
+    "title": "Recipe collab teaser",
+    "dueDate": "2025-07-28T00:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "del-6",
+    "campaignId": "campaign-1",
+    "creatorId": "creator-2",
+    "type": "video",
+    "platform": "youtube",
+    "title": "Long-form travel vlog",
+    "dueDate": "2025-08-05T00:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "del-7",
+    "campaignId": "campaign-2",
+    "creatorId": "creator-3",
+    "type": "post",
+    "platform": "instagram",
+    "title": "Campus fit check",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "del-8",
+    "campaignId": "campaign-2",
+    "creatorId": "creator-12",
+    "type": "video",
+    "platform": "youtube",
+    "title": "Desk setup tour",
+    "dueDate": "2025-09-05T00:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "del-9",
+    "campaignId": "campaign-3",
+    "creatorId": "creator-4",
+    "type": "reel",
+    "platform": "instagram",
+    "title": "Gift guide hero",
+    "dueDate": "2024-12-01T00:00:00.000Z",
+    "status": "live"
+  },
+  {
+    "id": "del-10",
+    "campaignId": "campaign-3",
+    "creatorId": "creator-15",
+    "type": "video",
+    "platform": "tiktok",
+    "title": "Holiday humor spot",
+    "dueDate": "2024-12-10T00:00:00.000Z",
+    "status": "live"
+  },
+  {
+    "id": "del-11",
+    "campaignId": "campaign-3",
+    "creatorId": "creator-16",
+    "type": "post",
+    "platform": "youtube",
+    "title": "Routine + CTA",
+    "dueDate": "2024-12-15T00:00:00.000Z",
+    "status": "approved"
+  },
+  {
+    "id": "del-12",
+    "campaignId": "campaign-4",
+    "creatorId": "creator-7",
+    "type": "video",
+    "platform": "youtube",
+    "title": "Roadshow vlog ep. 2",
+    "dueDate": "2025-08-01T00:00:00.000Z",
+    "status": "submitted",
+    "submittedAt": "2025-07-30T11:00:00.000Z"
+  },
+  {
+    "id": "del-13",
+    "campaignId": "campaign-4",
+    "creatorId": "creator-10",
+    "type": "reel",
+    "platform": "instagram",
+    "title": "Trail highlight",
+    "dueDate": "2025-08-10T00:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "id": "del-14",
+    "campaignId": "campaign-4",
+    "creatorId": "creator-1",
+    "type": "story",
+    "platform": "instagram",
+    "title": "Event day stories",
+    "dueDate": "2025-07-15T00:00:00.000Z",
+    "status": "live"
+  },
+  {
+    "id": "del-15",
+    "campaignId": "campaign-5",
+    "creatorId": "creator-9",
+    "type": "post",
+    "platform": "instagram",
+    "title": "Spring refresh reel",
+    "dueDate": "2025-04-01T00:00:00.000Z",
+    "status": "live"
+  }
+]

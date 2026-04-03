@@ -1,0 +1,710 @@
+[
+  {
+    "id": "creator-1",
+    "displayName": "Andrea Botez",
+    "handle": "@andreabotez",
+    "avatarUrl": "/assets/creator-avatars/1.jpg",
+    "bio": "Chess creator and streamer focused on travel collabs and lifestyle.",
+    "location": "Los Angeles, USA",
+    "categories": ["Gaming", "Lifestyle"],
+    "tags": ["travel", "live", "chess"],
+    "status": "active",
+    "reach": 2400000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@andreabotez",
+        "followers": 890000,
+        "engagementRate": 4.2,
+        "avgViews": 120000
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@andreabotez",
+        "followers": 1200000,
+        "engagementRate": 5.1,
+        "avgViews": 450000
+      },
+      {
+        "platform": "youtube",
+        "handle": "BotezLive",
+        "followers": 310000,
+        "engagementRate": 3.4,
+        "avgViews": 80000
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "13-17", "percent": 8 },
+        { "label": "18-24", "percent": 34 },
+        { "label": "25-34", "percent": 38 },
+        { "label": "35-44", "percent": 14 },
+        { "label": "45+", "percent": 6 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 42 },
+        { "label": "Men", "percent": 56 },
+        { "label": "Non-binary", "percent": 2 }
+      ],
+      "topLocations": [
+        { "country": "United States", "percent": 48 },
+        { "country": "Canada", "percent": 12 },
+        { "country": "UK", "percent": 9 }
+      ]
+    },
+    "pricingRange": { "min": 15000, "max": 35000, "currency": "USD" },
+    "previousBrands": ["Nike", "Away", "MasterClass"],
+    "topContent": [
+      {
+        "id": "tc-1",
+        "title": "48 hours in Lisbon",
+        "platform": "instagram",
+        "thumbnailUrl": "/assets/thumbnails/p1.svg"
+      },
+      {
+        "id": "tc-2",
+        "title": "Packing cubes changed my life",
+        "platform": "tiktok",
+        "thumbnailUrl": "/assets/thumbnails/p2.svg"
+      }
+    ]
+  },
+  {
+    "id": "creator-2",
+    "displayName": "Maya Chen",
+    "handle": "@mayatravels",
+    "avatarUrl": "/assets/creator-avatars/2.jpg",
+    "bio": "Solo travel tips, budget hacks, and slow itineraries across Asia.",
+    "location": "Singapore",
+    "categories": ["Travel", "Lifestyle"],
+    "tags": ["solo", "budget", "asia"],
+    "status": "active",
+    "reach": 1820000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@mayatravels",
+        "followers": 720000,
+        "engagementRate": 3.9
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@mayatravels",
+        "followers": 1100000,
+        "engagementRate": 4.8
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 28 },
+        { "label": "25-34", "percent": 44 },
+        { "label": "35-44", "percent": 18 },
+        { "label": "45+", "percent": 10 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 61 },
+        { "label": "Men", "percent": 37 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 8000, "max": 22000, "currency": "USD" },
+    "previousBrands": ["Airbnb", "Booking.com"],
+    "topContent": []
+  },
+  {
+    "id": "creator-3",
+    "displayName": "Jordan Lee",
+    "handle": "@jordanfits",
+    "avatarUrl": "/assets/creator-avatars/3.jpg",
+    "bio": "Streetwear fits, unboxings, and creator economy commentary.",
+    "location": "New York, USA",
+    "categories": ["Fashion", "Lifestyle"],
+    "tags": ["streetwear", "unboxing"],
+    "status": "contacted",
+    "reach": 980000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@jordanfits",
+        "followers": 410000,
+        "engagementRate": 3.1
+      },
+      {
+        "platform": "youtube",
+        "handle": "JordanLee",
+        "followers": 570000,
+        "engagementRate": 2.6
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 40 },
+        { "label": "25-34", "percent": 35 },
+        { "label": "35-44", "percent": 15 },
+        { "label": "45+", "percent": 10 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 22 },
+        { "label": "Men", "percent": 76 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 6000, "max": 14000, "currency": "USD" },
+    "previousBrands": ["StockX", "Glossier"],
+    "topContent": []
+  },
+  {
+    "id": "creator-4",
+    "displayName": "Samira Noor",
+    "handle": "@samirabeauty",
+    "avatarUrl": "/assets/creator-avatars/4.jpg",
+    "bio": "Clean beauty routines, GRWM, and honest product reviews.",
+    "location": "London, UK",
+    "categories": ["Beauty", "Lifestyle"],
+    "tags": ["grwm", "clean-beauty"],
+    "status": "active",
+    "reach": 3100000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@samirabeauty",
+        "followers": 1400000,
+        "engagementRate": 2.9
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@samirabeauty",
+        "followers": 1700000,
+        "engagementRate": 4.4
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 36 },
+        { "label": "25-34", "percent": 40 },
+        { "label": "35-44", "percent": 18 },
+        { "label": "45+", "percent": 6 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 88 },
+        { "label": "Men", "percent": 10 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 12000, "max": 28000, "currency": "USD" },
+    "previousBrands": ["Sephora", "Glossier"],
+    "topContent": []
+  },
+  {
+    "id": "creator-5",
+    "displayName": "Chris Ortiz",
+    "handle": "@chrisintech",
+    "avatarUrl": "/assets/creator-avatars/5.jpg",
+    "bio": "Gadget reviews, desk setups, and productivity workflows.",
+    "location": "Austin, USA",
+    "categories": ["Tech", "Lifestyle"],
+    "tags": ["gadgets", "desk-setup"],
+    "status": "pending",
+    "reach": 760000,
+    "platforms": [
+      {
+        "platform": "youtube",
+        "handle": "ChrisInTech",
+        "followers": 520000,
+        "engagementRate": 3.7
+      },
+      {
+        "platform": "instagram",
+        "handle": "@chrisintech",
+        "followers": 240000,
+        "engagementRate": 2.4
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 22 },
+        { "label": "25-34", "percent": 48 },
+        { "label": "35-44", "percent": 22 },
+        { "label": "45+", "percent": 8 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 18 },
+        { "label": "Men", "percent": 80 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 7000, "max": 16000, "currency": "USD" },
+    "previousBrands": ["Logitech", "Notion"],
+    "topContent": []
+  },
+  {
+    "id": "creator-6",
+    "displayName": "Priya Kapoor",
+    "handle": "@priyacooks",
+    "avatarUrl": "/assets/creator-avatars/6.jpg",
+    "bio": "Weeknight dinners, South Asian fusion, and grocery hauls.",
+    "location": "Toronto, Canada",
+    "categories": ["Food", "Lifestyle"],
+    "tags": ["recipes", "fusion"],
+    "status": "active",
+    "reach": 2100000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@priyacooks",
+        "followers": 950000,
+        "engagementRate": 3.6
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@priyacooks",
+        "followers": 1150000,
+        "engagementRate": 5.0
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 20 },
+        { "label": "25-34", "percent": 42 },
+        { "label": "35-44", "percent": 26 },
+        { "label": "45+", "percent": 12 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 72 },
+        { "label": "Men", "percent": 26 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 9000, "max": 20000, "currency": "USD" },
+    "previousBrands": ["HelloFresh", "Oxo"],
+    "topContent": []
+  },
+  {
+    "id": "creator-7",
+    "displayName": "Alex Kim",
+    "handle": "@alexplays",
+    "avatarUrl": "/assets/creator-avatars/7.jpg",
+    "bio": "FPS highlights, collabs, and tournament coverage.",
+    "location": "Seoul, South Korea",
+    "categories": ["Gaming"],
+    "tags": ["fps", "esports"],
+    "status": "active",
+    "reach": 4500000,
+    "platforms": [
+      {
+        "platform": "youtube",
+        "handle": "AlexPlays",
+        "followers": 2800000,
+        "engagementRate": 4.0
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@alexplays",
+        "followers": 1700000,
+        "engagementRate": 6.2
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "13-17", "percent": 18 },
+        { "label": "18-24", "percent": 46 },
+        { "label": "25-34", "percent": 26 },
+        { "label": "35-44", "percent": 8 },
+        { "label": "45+", "percent": 2 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 24 },
+        { "label": "Men", "percent": 74 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 25000, "max": 60000, "currency": "USD" },
+    "previousBrands": ["Razer", "Red Bull"],
+    "topContent": []
+  },
+  {
+    "id": "creator-8",
+    "displayName": "Taylor Brooks",
+    "handle": "@taylorfit",
+    "avatarUrl": "/assets/creator-avatars/8.jpg",
+    "bio": "Strength training, mobility, and recovery for busy professionals.",
+    "location": "Denver, USA",
+    "categories": ["Fitness", "Lifestyle"],
+    "tags": ["strength", "mobility"],
+    "status": "inactive",
+    "reach": 540000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@taylorfit",
+        "followers": 320000,
+        "engagementRate": 2.8
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@taylorfit",
+        "followers": 220000,
+        "engagementRate": 4.1
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 24 },
+        { "label": "25-34", "percent": 46 },
+        { "label": "35-44", "percent": 22 },
+        { "label": "45+", "percent": 8 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 58 },
+        { "label": "Men", "percent": 40 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 4000, "max": 11000, "currency": "USD" },
+    "previousBrands": ["Gymshark", "WHOOP"],
+    "topContent": []
+  },
+  {
+    "id": "creator-9",
+    "displayName": "Nia Williams",
+    "handle": "@niahome",
+    "avatarUrl": "/assets/creator-avatars/9.jpg",
+    "bio": "Interior styling, small-space hacks, and seasonal decor.",
+    "location": "Chicago, USA",
+    "categories": ["Lifestyle"],
+    "tags": ["interior", "decor"],
+    "status": "active",
+    "reach": 1200000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@niahome",
+        "followers": 680000,
+        "engagementRate": 3.3
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@niahome",
+        "followers": 520000,
+        "engagementRate": 2.1
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "25-34", "percent": 38 },
+        { "label": "35-44", "percent": 34 },
+        { "label": "18-24", "percent": 16 },
+        { "label": "45+", "percent": 12 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 84 },
+        { "label": "Men", "percent": 14 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 6000, "max": 15000, "currency": "USD" },
+    "previousBrands": ["West Elm", "Article"],
+    "topContent": []
+  },
+  {
+    "id": "creator-10",
+    "displayName": "Diego Alvarez",
+    "handle": "@diegoexplores",
+    "avatarUrl": "/assets/creator-avatars/10.jpg",
+    "bio": "Outdoor adventures, national parks, and sustainable travel.",
+    "location": "Barcelona, Spain",
+    "categories": ["Travel", "Lifestyle"],
+    "tags": ["outdoor", "sustainable"],
+    "status": "active",
+    "reach": 890000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@diegoexplores",
+        "followers": 540000,
+        "engagementRate": 3.5
+      },
+      {
+        "platform": "youtube",
+        "handle": "DiegoExplores",
+        "followers": 350000,
+        "engagementRate": 3.0
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 26 },
+        { "label": "25-34", "percent": 42 },
+        { "label": "35-44", "percent": 22 },
+        { "label": "45+", "percent": 10 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 46 },
+        { "label": "Men", "percent": 52 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 5000, "max": 13000, "currency": "USD" },
+    "previousBrands": ["Patagonia", "REI"],
+    "topContent": []
+  },
+  {
+    "id": "creator-11",
+    "displayName": "Emma Frost",
+    "handle": "@emmastyle",
+    "avatarUrl": "/assets/creator-avatars/11.jpg",
+    "bio": "Capsule wardrobes, outfit formulas, and thrift flips.",
+    "location": "Melbourne, Australia",
+    "categories": ["Fashion", "Lifestyle"],
+    "tags": ["capsule", "thrift"],
+    "status": "contacted",
+    "reach": 640000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@emmastyle",
+        "followers": 410000,
+        "engagementRate": 2.7
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@emmastyle",
+        "followers": 230000,
+        "engagementRate": 4.6
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 34 },
+        { "label": "25-34", "percent": 40 },
+        { "label": "35-44", "percent": 18 },
+        { "label": "45+", "percent": 8 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 79 },
+        { "label": "Men", "percent": 19 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 4500, "max": 12000, "currency": "USD" },
+    "previousBrands": ["Everlane", "Reformation"],
+    "topContent": []
+  },
+  {
+    "id": "creator-12",
+    "displayName": "Riley Park",
+    "handle": "@rileybytes",
+    "avatarUrl": "/assets/creator-avatars/12.jpg",
+    "bio": "AI tools, startup culture, and founder interviews.",
+    "location": "San Francisco, USA",
+    "categories": ["Tech"],
+    "tags": ["ai", "startups"],
+    "status": "active",
+    "reach": 1500000,
+    "platforms": [
+      {
+        "platform": "twitter",
+        "handle": "@rileybytes",
+        "followers": 420000,
+        "engagementRate": 1.9
+      },
+      {
+        "platform": "youtube",
+        "handle": "RileyBytes",
+        "followers": 780000,
+        "engagementRate": 3.2
+      },
+      {
+        "platform": "facebook",
+        "handle": "rileybytes",
+        "followers": 300000,
+        "engagementRate": 1.4
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 18 },
+        { "label": "25-34", "percent": 52 },
+        { "label": "35-44", "percent": 24 },
+        { "label": "45+", "percent": 6 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 34 },
+        { "label": "Men", "percent": 64 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 10000, "max": 24000, "currency": "USD" },
+    "previousBrands": ["Linear", "Vercel"],
+    "topContent": []
+  },
+  {
+    "id": "creator-13",
+    "displayName": "Hannah Wells",
+    "handle": "@hannahwellness",
+    "avatarUrl": "/assets/creator-avatars/13.jpg",
+    "bio": "Mindful routines, journaling, and gentle productivity.",
+    "location": "Portland, USA",
+    "categories": ["Lifestyle"],
+    "tags": ["mindfulness", "journaling"],
+    "status": "active",
+    "reach": 420000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@hannahwellness",
+        "followers": 280000,
+        "engagementRate": 3.0
+      },
+      {
+        "platform": "tiktok",
+        "handle": "@hannahwellness",
+        "followers": 140000,
+        "engagementRate": 4.3
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 30 },
+        { "label": "25-34", "percent": 44 },
+        { "label": "35-44", "percent": 18 },
+        { "label": "45+", "percent": 8 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 76 },
+        { "label": "Men", "percent": 22 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 3500, "max": 9000, "currency": "USD" },
+    "previousBrands": ["Calm", "Moleskine"],
+    "topContent": []
+  },
+  {
+    "id": "creator-14",
+    "displayName": "Marcus Webb",
+    "handle": "@marcusmusic",
+    "avatarUrl": "/assets/creator-avatars/14.jpg",
+    "bio": "Studio sessions, gear reviews, and tour diaries.",
+    "location": "Atlanta, USA",
+    "categories": ["Lifestyle"],
+    "tags": ["music", "studio"],
+    "status": "pending",
+    "reach": 670000,
+    "platforms": [
+      {
+        "platform": "youtube",
+        "handle": "MarcusWebb",
+        "followers": 390000,
+        "engagementRate": 3.4
+      },
+      {
+        "platform": "instagram",
+        "handle": "@marcusmusic",
+        "followers": 280000,
+        "engagementRate": 2.6
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 36 },
+        { "label": "25-34", "percent": 38 },
+        { "label": "35-44", "percent": 18 },
+        { "label": "45+", "percent": 8 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 44 },
+        { "label": "Men", "percent": 54 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 5000, "max": 14000, "currency": "USD" },
+    "previousBrands": ["Fender", "Spotify"],
+    "topContent": []
+  },
+  {
+    "id": "creator-15",
+    "displayName": "Zara Malik",
+    "handle": "@zaraedit",
+    "avatarUrl": "/assets/creator-avatars/15.jpg",
+    "bio": "Short-form storytelling, cultural commentary, and humor.",
+    "location": "Dubai, UAE",
+    "categories": ["Lifestyle"],
+    "tags": ["humor", "culture"],
+    "status": "active",
+    "reach": 5200000,
+    "platforms": [
+      {
+        "platform": "tiktok",
+        "handle": "@zaraedit",
+        "followers": 4100000,
+        "engagementRate": 6.8
+      },
+      {
+        "platform": "instagram",
+        "handle": "@zaraedit",
+        "followers": 1100000,
+        "engagementRate": 2.5
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "13-17", "percent": 22 },
+        { "label": "18-24", "percent": 44 },
+        { "label": "25-34", "percent": 24 },
+        { "label": "35-44", "percent": 8 },
+        { "label": "45+", "percent": 2 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 52 },
+        { "label": "Men", "percent": 46 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 30000, "max": 75000, "currency": "USD" },
+    "previousBrands": ["Netflix", "Coca-Cola"],
+    "topContent": []
+  },
+  {
+    "id": "creator-16",
+    "displayName": "Olivia Grant",
+    "handle": "@oliviaskincare",
+    "avatarUrl": "/assets/creator-avatars/16.jpg",
+    "bio": "Dermatologist-backed routines and ingredient deep dives.",
+    "location": "Dublin, Ireland",
+    "categories": ["Beauty"],
+    "tags": ["skincare", "science"],
+    "status": "active",
+    "reach": 950000,
+    "platforms": [
+      {
+        "platform": "instagram",
+        "handle": "@oliviaskincare",
+        "followers": 520000,
+        "engagementRate": 3.1
+      },
+      {
+        "platform": "youtube",
+        "handle": "OliviaSkincare",
+        "followers": 430000,
+        "engagementRate": 4.0
+      }
+    ],
+    "audience": {
+      "ageRanges": [
+        { "label": "18-24", "percent": 32 },
+        { "label": "25-34", "percent": 44 },
+        { "label": "35-44", "percent": 18 },
+        { "label": "45+", "percent": 6 }
+      ],
+      "gender": [
+        { "label": "Women", "percent": 86 },
+        { "label": "Men", "percent": 12 },
+        { "label": "Non-binary", "percent": 2 }
+      ]
+    },
+    "pricingRange": { "min": 8000, "max": 19000, "currency": "USD" },
+    "previousBrands": ["CeraVe", "La Roche-Posay"],
+    "topContent": []
+  }
+]
