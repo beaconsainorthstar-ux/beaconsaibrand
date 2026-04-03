@@ -166,8 +166,8 @@ export default async function CampaignDetailPage({
                   <p className="text-sm text-muted-foreground">{c.handle}</p>
                 </div>
               </div>
-              <Button size="sm" variant="outline">
-                View media kit
+              <Button size="sm" variant="outline" asChild>
+                <Link href={`/creators/${c.id}`}>View media kit</Link>
               </Button>
             </Link>
           ))}
