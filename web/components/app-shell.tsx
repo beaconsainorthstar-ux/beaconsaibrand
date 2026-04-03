@@ -28,6 +28,9 @@ export function AppShell({
               readOnly
             />
           </div>
+          <Button variant="ghost" size="sm" className="hidden sm:inline-flex" asChild>
+            <Link href="/">Marketing site</Link>
+          </Button>
           <Button variant="outline" size="sm" className="gap-2" asChild>
             <Link href="/dashboard">
               <Bell className="h-4 w-4" />

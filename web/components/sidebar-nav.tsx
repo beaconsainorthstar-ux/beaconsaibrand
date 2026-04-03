@@ -28,7 +28,7 @@ export function SidebarNav() {
   return (
     <aside className="flex h-full w-56 flex-col border-r border-sidebar-border bg-sidebar">
       <div className="flex h-14 items-center border-b border-sidebar-border px-4">
-        <Link href="/dashboard" className="flex items-center gap-2 font-semibold">
+        <Link href="/" className="flex items-center gap-2 font-semibold">
           <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground text-xs">
             B
           </span>
