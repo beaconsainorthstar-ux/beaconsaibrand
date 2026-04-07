@@ -63,25 +63,27 @@ export function BrandsLanding() {
               impact.
             </p>
             <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
-              <a
-                href={DEMO_FORM}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex h-12 w-full max-w-xs items-center justify-center rounded-full bg-zinc-900 px-8 text-sm font-semibold text-white transition hover:bg-zinc-800 sm:w-auto"
-              >
-                Get a demo
-                <ArrowRight className="ml-2 h-4 w-4" />
-              </a>
+              <div className="flex flex-col items-center gap-2">
+                <p className="text-sm font-medium text-zinc-500">
+                  Trusted by 5,000+ brand teams
+                </p>
+                <a
+                  href={DEMO_FORM}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex h-12 w-full max-w-xs items-center justify-center rounded-full bg-zinc-900 px-8 text-sm font-semibold text-white transition hover:bg-zinc-800 sm:w-auto"
+                >
+                  Start for Free
+                  <ArrowRight className="ml-2 h-4 w-4" />
+                </a>
+                <p className="text-xs text-zinc-400">No credit card required</p>
+              </div>
               <Link
                 href="/signin"
                 className="inline-flex h-12 w-full max-w-xs items-center justify-center rounded-full border border-zinc-300 bg-white px-8 text-sm font-semibold text-zinc-900 transition hover:bg-zinc-50 sm:w-auto"
               >
                 Log in
               </Link>
-            </div>
-            <div className="mt-4 flex flex-col items-center gap-1">
-              <p className="text-xs text-zinc-400">Trusted by 5,000+ brand teams</p>
-              <p className="text-xs text-zinc-400">No credit card required</p>
             </div>
 
             <div className="mx-auto mt-16 grid max-w-3xl grid-cols-1 gap-6 border-t border-zinc-200/80 pt-12 sm:grid-cols-3">
