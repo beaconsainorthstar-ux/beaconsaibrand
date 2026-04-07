@@ -14,19 +14,6 @@ import {
 
 const DEMO_FORM = "https://form.typeform.com/to/asCaQ4o6";
 
-function ROIStatBanner() {
-  return (
-    <div className="mx-auto mb-6 max-w-xl rounded-2xl border border-violet-200 bg-violet-50 px-6 py-4 text-center">
-      <p className="text-sm font-semibold text-violet-900">
-        Brands using Beacons cut campaign reporting time by 3x — see it in your first session.
-      </p>
-      <p className="mt-1 text-xs text-violet-600">
-        Reported by marketing teams across Beacons brand customers
-      </p>
-    </div>
-  );
-}
-
 export function BrandsLanding() {
   return (
     <div className="min-h-screen bg-white text-zinc-900">
@@ -166,8 +153,12 @@ export function BrandsLanding() {
                 </div>
               ))}
             </div>
-            <div className="mt-12 flex flex-col items-center justify-center">
-              <ROIStatBanner />
+            <div className="mt-12 flex flex-col items-center gap-4">
+              <div className="w-full max-w-2xl rounded-xl border border-violet-200 bg-violet-50 px-6 py-4 text-center">
+                <p className="text-sm font-medium text-violet-800">
+                  <span className="font-semibold">Brands using Beacons report 40% less time managing creator campaigns</span> — see it in your first session.
+                </p>
+              </div>
               <a
                 href={DEMO_FORM}
                 target="_blank"
