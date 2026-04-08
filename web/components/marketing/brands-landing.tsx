@@ -58,8 +58,7 @@ export function BrandsLanding() {
               Turn creator marketing into a scalable growth channel
             </h1>
             <p className="mx-auto mt-6 max-w-2xl text-pretty text-lg text-zinc-600">
-              Replace your creator ops spreadsheet with one platform — and prove
-              ROI to your CMO after every campaign.
+              Replace your creator ops spreadsheet with one platform — and prove ROI to your CMO after every campaign.
             </p>
             <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <a
