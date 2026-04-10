@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
+import { captureEvent, identifyUser } from "@/lib/analytics";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -23,9 +24,12 @@ export function SignInForm() {
     e.preventDefault();
     setError(null);
     if (userId.trim() === DEMO_USER && password === DEMO_PASS) {
+      identifyUser("demo-brand-user", { prototype: true });
+      captureEvent("sign_in_succeeded", { method: "demo_credentials" });
       router.push("/dashboard");
       return;
     }
+    captureEvent("sign_in_failed", { reason: "invalid_credentials" });
     setError("Invalid email or password. Use demo / demo for this prototype.");
   }
 
