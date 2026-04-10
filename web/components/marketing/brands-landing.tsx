@@ -27,8 +27,6 @@ const BOOK_DEMO =
   "https://beacons.notion.site/33c2815a497f80af82d8d9fdbe0d0f5f";
 const SIGNUP =
   "https://account.beacons.ai/signup?originPage=home&cta_location=header&cta_text=sign_up&referring_user=direct&referral_type=sign_up";
-const SIGNIN =
-  "https://account.beacons.ai/signin?originPage=home&cta_location=header&cta_text=log_in&referring_user=direct&referral_type=log_in";
 
 const creatorPhotos = [
   "ILB7V1b84KUjMAjxHHu5RoXGr6I.jpeg",
@@ -207,14 +205,12 @@ export function BrandsLanding() {
             </a>
           </nav>
           <div className="flex items-center gap-2 sm:gap-3">
-            <a
-              href={SIGNIN}
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/login"
               className="text-sm font-medium text-zinc-700 hover:text-zinc-900"
             >
               Login
-            </a>
+            </Link>
             <a
               href={SIGNUP}
               target="_blank"
