@@ -12,6 +12,7 @@ import {
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { APP_NAME, NAV_ITEMS } from "@/lib/constants";
+import { BeaconsWordmark } from "@/components/beacons-wordmark";
 
 const iconMap = {
   LayoutDashboard,
@@ -28,11 +29,13 @@ export function SidebarNav() {
   return (
     <aside className="flex h-full w-56 flex-col border-r border-sidebar-border bg-sidebar">
       <div className="flex h-14 items-center border-b border-sidebar-border px-4">
-        <Link href="/" className="flex items-center gap-2 font-semibold">
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground text-xs">
-            B
-          </span>
-          <span className="truncate">{APP_NAME}</span>
+        <Link
+          href="/"
+          className="flex min-w-0 items-center gap-2 font-semibold"
+          aria-label={APP_NAME}
+        >
+          <BeaconsWordmark invertOnDark className="h-6 shrink-0 sm:h-7" />
+          <span className="truncate text-sm text-sidebar-foreground/90">{APP_NAME}</span>
         </Link>
       </div>
       <nav className="flex flex-1 flex-col gap-0.5 p-2">

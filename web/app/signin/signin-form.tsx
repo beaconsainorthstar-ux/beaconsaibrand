@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { captureEvent, identifyUser } from "@/lib/analytics";
+import { BeaconsWordmark } from "@/components/beacons-wordmark";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -50,11 +51,8 @@ export function SignInForm() {
       </header>
 
       <div className="flex flex-1 flex-col items-center px-4 py-12 sm:py-16">
-        <Link href="/" className="mb-8 flex items-center gap-2">
-          <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-violet-600 to-fuchsia-600 text-lg font-bold text-white shadow-sm">
-            B
-          </span>
-          <span className="text-xl font-semibold text-zinc-900">Beacons</span>
+        <Link href="/" className="mb-8 flex items-center" aria-label="Beacons Brand home">
+          <BeaconsWordmark className="h-8 sm:h-9" priority />
         </Link>
 
         <div className="w-full max-w-[400px] rounded-2xl border border-zinc-200 bg-white p-8 shadow-sm">

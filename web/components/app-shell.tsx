@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Bell, Search } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import { BeaconsWordmark } from "@/components/beacons-wordmark";
 import { SidebarNav } from "@/components/sidebar-nav";
 
 export function AppShell({
@@ -20,6 +21,13 @@ export function AppShell({
       <SidebarNav />
       <div className="flex min-w-0 flex-1 flex-col">
         <header className="sticky top-0 z-40 flex h-14 items-center gap-3 border-b border-border bg-background/80 px-4 backdrop-blur">
+          <Link
+            href="/"
+            className="hidden shrink-0 sm:flex"
+            aria-label="Beacons Brand home"
+          >
+            <BeaconsWordmark invertOnDark className="h-6" />
+          </Link>
           <div className="relative max-w-md flex-1">
             <Search className="pointer-events-none absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
             <Input

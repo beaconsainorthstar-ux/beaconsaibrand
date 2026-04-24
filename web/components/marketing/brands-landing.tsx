@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Figtree } from "next/font/google";
+import { beaconsWordmarkUrl } from "@/lib/beacons-wordmark";
 import {
   BarChart3,
   ChevronDown,
@@ -182,7 +183,7 @@ export function BrandsLanding() {
             aria-label="Beacons home"
           >
             <Image
-              src={img("HymXJwVpqNNxOplRg4lKlnqzByw.png", 816)}
+              src={beaconsWordmarkUrl(816)}
               alt=""
               width={120}
               height={33}
